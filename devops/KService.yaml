@@ -4,8 +4,6 @@ metadata:
   name: acme-bookstore-product
 spec:
   template:
-    metadata:
-      name: acme-bookstore-product-001
     spec:
       containers:
         - image: ivan2yk/acme-bookstore-product:7
